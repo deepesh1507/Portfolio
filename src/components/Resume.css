@@ -1,5 +1,5 @@
-/* About Section Styling */
-#about {
+/* Resume Section Styling */
+#Resume {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -74,7 +74,7 @@
         font-size: 1rem;
     }
 
-    #about .profile-image {
+    #Resume .profile-image {
         width: 140px;
         height: 140px;
     }
